@@ -69,7 +69,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
+        - title: PhD
           company: GenCoin
           company_url: ''
           company_logo: org-gc
@@ -82,7 +82,7 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
+        - title: Msc
           company: University X
           company_url: ''
           company_logo: org-x
