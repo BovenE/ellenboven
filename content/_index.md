@@ -46,5 +46,4 @@ sections:
           description: Correlating calcium dynamics with network activity in an in vitro model of a cortical microcircuitry.
     design:
       columns: '2'
-
 ---
