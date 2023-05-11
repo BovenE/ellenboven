@@ -11,22 +11,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -40,26 +24,26 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: PhD
-          company: GenCoin
+          company: University of Bristol
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo: org-UoB
+          location: U.K.
+          date_start: '2018-10-01'
+          date_end: '2022-12-23'
           description: |2-
               Responsibilities include:
-
+              * Behaviour
               * Analysing
               * Modelling
-              * Deploying
+             
         - title: Msc
-          company: University X
+          company: Antwerp University 
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: org-UA
+          location: Belgium
+          date_start: '2015-09-23'
+          date_end: '2017-07-01'
+          description: Correlating calcium dynamics with network activity in an in vitro model of a cortical microcircuitry.
     design:
       columns: '2'
   - block: accomplishments
@@ -79,7 +63,7 @@ sections:
           date_end: ''
           date_start: '2021-01-25'
           description: ''
-          organization: Coursera
+          organization:Neuromatch
           organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
           url: ''
