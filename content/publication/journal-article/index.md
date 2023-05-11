@@ -2,15 +2,17 @@
 title: "An example journal article"
 authors:
 - admin
-- Robert Ford
+- Joseph Pemberton
+- Paul Chadderton
+- Rui Ponte Costa
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2023-01-04T00:00:00Z"
+doi: "10.1038/s41467-022-35658-8"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-01-04T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +21,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Nature Communications, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Behavioural feedback is critical for learning in the cerebral cortex. However, such feedback is often not readily available. How the cerebral cortex learns efficiently despite the sparse nature of feedback remains unclear. Inspired by recent deep learning algorithms, we introduce a systems-level computational model of cerebro-cerebellar interactions. In this model a cerebral recurrent network receives feedback predictions from a cerebellar network, thereby decoupling learning in cerebral networks from future feedback. When trained in a simple sensorimotor task the model shows faster learning and reduced dysmetria-like behaviours, in line with the widely observed functional impact of the cerebellum. Next, we demonstrate that these results generalise to more complex motor and cognitive tasks. Finally, the model makes several experimentally testable predictions regarding cerebro-cerebellar task-specific representations over learning, task-specific benefits of cerebellar predictions and the differential impact of cerebellar and inferior olive lesions. Overall, our work offers a theoretical framework of cerebro-cerebellar networks as feedback decoupling machines.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -34,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: 'https://www.nature.com/articles/s41467-022-35658-8'
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
