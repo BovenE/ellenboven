@@ -26,16 +26,15 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Systems Neurosciences
+  - Computational Neurosciences
+  - Circuit interrogation
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Neural Dynamics
       institution: University of Bristol
-      year: 2023
     - course: Msc in Biomedical sciences: Neurosciences
       institution: University of Antwerp
       year: 2017
