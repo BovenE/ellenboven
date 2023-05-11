@@ -33,15 +33,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Neural dynamics
+      institution: Bristol University
+      year: 2023
+    - course: Msc in Neurosciences
+      institution: Antwerp University
+      year: 2017
+    - course: BSc in Biology
+      institution: Ghent University
+      year: 2014
 superuser: true
 
 # Social/Academic Networking
@@ -81,5 +81,5 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a postdoctoral fellow in Neurosciences at the University of Bristol, U.K. and a visiting scientist at ERASMUS MC Rotterdam, the Netherlands. I have recently completed my PhD at the Sensory and Motor Systems group and Neural and Machine learning group at the university of Bristol. I am passionate about research at the intersection of experimental and computational neuroscience. In my PhD, I use artificial neural networks alongside experimental neuroscience in rodents to understand cerebrocerebellar network function during learning. I strongly believe that the interplay between modern experimental techniques and basic observations of behaviour embedded in a strong theoretical framework is crucial for advancing neurosciencE.
+I am currently a postdoctoral fellow in Neurosciences at the University of Bristol, U.K. and a visiting scientist at ERASMUS MC Rotterdam, the Netherlands. I have recently completed my PhD at the Sensory and Motor Systems group and Neural and Machine learning group at the university of Bristol. I am passionate about research at the intersection of experimental and computational neuroscience. In my PhD, I use artificial neural networks alongside experimental neuroscience in rodents to understand cerebrocerebellar network function during learning. I strongly believe that the interplay between modern experimental techniques and basic observations of behaviour embedded in a strong theoretical framework is crucial for advancing neuroscienceE.
 {style="text-align: justify;"}
