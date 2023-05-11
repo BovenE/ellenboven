@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Ellen Boven 
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Ellen 
+last_name: Boven
 
 # Status emoji
 status:
@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Fellow in Neural Dynamics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Bristol
+    url: https://www.bristol.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -33,15 +33,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Neural Dynamics
+      institution: University of Bristol
+      year: 2023
+    - course: Msc in Biomedical sciences: Neurosciences
+      institution: University of Antwerp
+      year: 2017
+    - course: BSc in Biology
+      institution: Ghent University
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -53,19 +53,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/boven_ellen
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=hiGq-U0AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/BovenE
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://be.linkedin.com/in/ellen-boven-5b2627a6
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -80,5 +80,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a postdoctoral fellow in Neurosciences at the University of Bristol, U.K. and a visiting scientist at ERASMUS MC Rotterdam, the Netherlands. I have recently completed my PhD at the Sensory and Motor Systems group and Neural and Machine learning group at the university of Bristol. I am passionate about research at the intersection of experimental and computational neuroscience. In my PhD, I use artificial neural networks alongside experimental neuroscience in rodents to understand cerebrocerebellar network function during learning. I strongly believe that the interplay between modern experimental techniques and basic observations of behaviour embedded in a strong theoretical framework is crucial for advancing neurosciencE.
 {style="text-align: justify;"}
