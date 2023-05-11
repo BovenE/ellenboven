@@ -63,7 +63,7 @@ sections:
           date_end: ''
           date_start: '2021-01-25'
           description: ''
-          organization:Neuromatch
+          organization: Neuromatch
           organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
           url: ''
